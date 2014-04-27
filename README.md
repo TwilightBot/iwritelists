@@ -4,7 +4,13 @@ The TwilightBot issue tracker
 Welcome to the TwilightBot issue tracker! This system was set up to help the developers fix and implement IWriteLists bugs and feature requests quickly, easily, and in an efficient manner.
 
 ## Reporting issues through Twilight
-TODO
+To report an issue, ask Twilight
+
+    issue <issue message here>
+
+Please be as descriptive but as to the point as possible with your title.
+
+If this is a SECURITY issue, please use ```mentormsg``` right away.
 
 ## Rules
 
