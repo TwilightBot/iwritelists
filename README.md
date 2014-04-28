@@ -10,7 +10,7 @@ To report an issue, ask Twilight
 
 Please be as descriptive but as to the point as possible with your title.
 
-If this is a SECURITY issue, please use ```mentormsg``` right away.
+If this is a *SECURITY* issue (e.g. disclosing sensitive data, gaining access to the host machine, execution of arbitrary code), please be responsible in your disclosure and use ```mentormsg``` or contact [tdlive aw'sum](http://steamcommunity.com/profiles/76561198043532513) (steamid64 76561198043532513/steamid32 STEAM_0:1:41633392) immediately (my profile will never be private, I'm at least Steam level 23, and I have at least 220 games).
 
 ## Rules
 
